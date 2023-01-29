@@ -24,10 +24,10 @@ Moreover, the policy maker requires answers for the following questions:
 customers?
 
 ## report components
-1- Problem formulation & Objectives.
-2- System Components.
-3- System analysis including cumulative distribution tables, calendar table (for 10 customers from each type).
-4- Experimental Design Parameters.
-5- Justification of experiment parameters values.5
+* Item 1 Problem formulation & Objectives.
+* Item 2 System Components.
+* Item 3 System analysis including cumulative distribution tables, calendar table (for 10 customers from each type).
+* Item 4 Experimental Design Parameters.
+* Item 5 Justification of experiment parameters values.5
 6- Results Analysis: Using graphs & discussions stating the results for the 8 questions.
 7- Conclusion
