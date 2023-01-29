@@ -11,23 +11,23 @@ However, the service of an ordinary customer cannot be interrupted by the arriva
 distinguished customer.
 
 ## requirements
-1- The average service time of the teller.
-2- The average waiting time in the ordinary customers queue and the distinguished customers queue.
-3- The maximum ordinary customers queue length and the distinguished customers queue length.
-4- The probability that an ordinary customer wait in the queue, and the probability that a distinguished customer wait in the queue.
-5- The portion of idle time of the teller.
+* The average service time of the teller.
+* The average waiting time in the ordinary customers queue and the distinguished customers queue.
+* The maximum ordinary customers queue length and the distinguished customers queue length.
+* The probability that an ordinary customer wait in the queue, and the probability that a distinguished customer wait in the queue.
+* The portion of idle time of the teller.
 
 Moreover, the policy maker requires answers for the following questions:
-6- Does the theoretical average service time of the service time distribution match with the experimental one for both types of customers?
-7- Does the theoretical average inter-arrival time of the inter-arrival time distribution match with the experimental one for both types of customers?
-8- If there is an additional teller to serve the distinguished customers only, how does this affect the average waiting time in the queues of both types of 
+* Does the theoretical average service time of the service time distribution match with the experimental one for both types of customers?
+* Does the theoretical average inter-arrival time of the inter-arrival time distribution match with the experimental one for both types of customers?
+* If there is an additional teller to serve the distinguished customers only, how does this affect the average waiting time in the queues of both types of 
 customers?
 
 ## report components
-* 1 Problem formulation & Objectives.
-* 2 System Components.
-* 3 System analysis including cumulative distribution tables, calendar table (for 10 customers from each type).
-* 4 Experimental Design Parameters.
-* 5 Justification of experiment parameters values.5
+* Problem formulation & Objectives.
+* System Components.
+* System analysis including cumulative distribution tables, calendar table (for 10 customers from each type).
+* Experimental Design Parameters.
+* Justification of experiment parameters values.5
 * 6 Results Analysis: Using graphs & discussions stating the results for the 8 questions.
 * 7 Conclusion.
