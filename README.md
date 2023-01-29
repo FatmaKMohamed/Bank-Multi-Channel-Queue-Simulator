@@ -22,3 +22,12 @@ Moreover, the policy maker requires answers for the following questions:
 7- Does the theoretical average inter-arrival time of the inter-arrival time distribution match with the experimental one for both types of customers?
 8- If there is an additional teller to serve the distinguished customers only, how does this affect the average waiting time in the queues of both types of 
 customers?
+
+## report components
+1- Problem formulation & Objectives.
+2- System Components.
+3- System analysis including cumulative distribution tables, calendar table (for 10 customers from each type).
+4- Experimental Design Parameters.
+5- Justification of experiment parameters values.
+6- Results Analysis: Using graphs & discussions stating the results for the 8 questions.
+7- Conclusion
