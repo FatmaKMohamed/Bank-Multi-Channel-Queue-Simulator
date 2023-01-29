@@ -29,5 +29,5 @@ customers?
 * System analysis including cumulative distribution tables, calendar table (for 10 customers from each type).
 * Experimental Design Parameters.
 * Justification of experiment parameters values.5
-* 6 Results Analysis: Using graphs & discussions stating the results for the 8 questions.
-* 7 Conclusion.
+* Results Analysis: Using graphs & discussions stating the results for the 8 questions.
+* Conclusion.
